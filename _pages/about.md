@@ -41,3 +41,36 @@ redirect_from:
 
 2022.05-至今     中山大学测绘科学与技术学院，副教授
 
+主要学术兼职：
+======
+IEEE 高级会员  
+
+中国图象图形学学会 高级会员  
+
+国际摄影测量与遥感学会“激光雷达、激光测高与多传感器融合”工作组联合主席（2022-2026）  
+
+国际数字地球学会中国国家委员会激光雷达专业委员会委员(2018-2022)  
+
+国际制图协会(ICA)传感器驱动制图委员会委员(2019-2023)  
+
+中国测绘学会工程测量分会委员（2022-2026）  
+
+中国地理信息产业协会实景三维城市工委会委员（2022-2026）  
+
+International Journal of Applied Earth Observation and   Geoinformation 期刊编委  
+
+The Photogrammetric Record 期刊编委  
+
+The Innovation期刊（IF: 16）青年编委  
+
+获奖情况
+======
+公路交通数智化关键技术与工程化应用，测绘科技进步二等奖（ 排一），2022  
+
+三维点云智能化目标检测的理论与方法，福建省自然科学奖三等奖（排二），2019
+
+开源数据集产品：
+======
+DBNet (LiDAR-Video Driving Dataset: Learning Driving Policies Effectively) 是一个包含三维点云、视频图像、GNSS 和驾驶员行为（速度和方向）的大规模数据集产品, 共涵盖厦门市十余种道路类型，约1000多公里。该城市级别大规模数据集的三维空间点云与二维视频图像等数据, 可为无人驾驶行为决策提供依据，已获全球包含MIT、谷歌等600多个单位与个人的下载使用。欢迎下载使用。  
+产品链接：http://www.dbehavior.net/  
+代码链接：https://github.com/driving-behavior/DBNet
