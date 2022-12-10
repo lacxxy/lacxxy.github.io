@@ -3,7 +3,7 @@ title: "Urban vegetation segmentation using terrestrial LiDAR point clouds based
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Y Chen, R Wu, C Yang, Y Lin*'
-date: '2021'
+date: 2021-10-01
 venue: ''
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
